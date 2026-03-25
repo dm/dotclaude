@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+
+# Claude Code — only track authored content (agents, commands, docs)
+# Everything else is runtime-generated and machine-specific
+.update.lock
+backups/
+cache/
+debug/
+file-history/
+history.jsonl
+ide/
+mcp-needs-auth-cache.json
+paste-cache/
+plans/
+plugins/
+projects/
+session-env/
+sessions/
+settings.json
+shell-snapshots/
+stats-cache.json
+statsig/
+statusline-command.sh
+tasks/
+teams/
+telemetry/
+todos/
+usage-data/
